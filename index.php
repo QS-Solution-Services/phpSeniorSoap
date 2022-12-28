@@ -17,7 +17,7 @@ $parameters = array('user'            => 'senior.qsss',
 
  //Sobrescrevendo endpoint do serviço
 $arguments = array('ColaboradoresAdmitidos' => array( $parameters));
-
+ 
 $options = array('location' => 'https://web31.seniorcloud.com.br:36101/g5-senior-services/rubi_Synccom_senior_g5_rh_fp_colaboradoresAdmitidos');
 
 //Chamada do serviço
